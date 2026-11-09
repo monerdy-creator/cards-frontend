@@ -7,7 +7,7 @@ function PageTitle() {
           COP 4331 MERN Stack Demo
         </h1>
         <p className="text-secondary small mb-0 fw-semibold">
-          Modern &amp; Accessible Card Management System
+          Modern &amp; Accessible Card Management System by Nick
         </p>
       </div>
     </header>
